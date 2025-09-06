@@ -1,4 +1,6 @@
-Customer Churn Prediction for PowerCo - Project Description
+**Customer Churn Prediction for PowerCo - Project Description:**
+
+
 This project develops a machine learning solution to predict customer churn for PowerCo, a major gas and electricity utility company serving SMEs. The analysis addresses a critical business challenge where PowerCo has been experiencing significant customer churn, prompting an investigation into whether price sensitivity is the primary driver of customer attrition.
 
 The project follows a comprehensive data science workflow beginning with exploratory data analysis (EDA) of client and pricing data. The EDA reveals key insights including a 10% churn rate, highly skewed consumption patterns, and varying churn rates across different sales channels. Visualizations uncover important patterns in customer behavior, consumption trends, and contract characteristics.
